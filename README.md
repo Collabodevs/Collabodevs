@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Collabodevs/Collabodevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Collabodevs** here.
 
-Here are some ideas to get you started:
+ ✨ _special_ ✨ account for collaboration projects by:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - [d-captainkenya](https://github.com/d-captainkenya)
+         [d-captainkenya](https://d-captainkenya.github.io)
+    - [Morvin-Ian](https://github.com/Morvin-Ian)
+    - [ChasimbaDerrick](https://github.com/CHASIMBADERRICK)
+
+
+- 🌱 We are currently learning Everything.
+- 👯 We are looking to collaborate with you too.
+
+
